@@ -13,6 +13,7 @@
 		670D5A8527831690008BBA4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 670D5A8327831690008BBA4B /* Main.storyboard */; };
 		670D5A8727831691008BBA4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 670D5A8627831691008BBA4B /* Assets.xcassets */; };
 		670D5A8A27831691008BBA4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 670D5A8827831691008BBA4B /* LaunchScreen.storyboard */; };
+		670D5A9227831AAD008BBA4B /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 670D5A9127831AAD008BBA4B /* EntryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		670D5A8627831691008BBA4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		670D5A8927831691008BBA4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		670D5A8B27831691008BBA4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		670D5A9127831AAD008BBA4B /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				670D5A7D27831690008BBA4B /* AppDelegate.swift */,
 				670D5A7F27831690008BBA4B /* SceneDelegate.swift */,
 				670D5A8127831690008BBA4B /* ViewController.swift */,
+				670D5A9127831AAD008BBA4B /* EntryViewController.swift */,
 				670D5A8327831690008BBA4B /* Main.storyboard */,
 				670D5A8627831691008BBA4B /* Assets.xcassets */,
 				670D5A8827831691008BBA4B /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				670D5A8227831690008BBA4B /* ViewController.swift in Sources */,
+				670D5A9227831AAD008BBA4B /* EntryViewController.swift in Sources */,
 				670D5A7E27831690008BBA4B /* AppDelegate.swift in Sources */,
 				670D5A8027831690008BBA4B /* SceneDelegate.swift in Sources */,
 			);
